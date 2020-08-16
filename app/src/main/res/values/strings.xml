@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="line_name">line name</string>
+    <string name="stions_name">station name</string>
+</resources>
